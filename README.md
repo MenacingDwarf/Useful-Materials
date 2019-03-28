@@ -1,24 +1,5 @@
-# Blockchain Materials
-<i><b>Some very usefull materials for begginers in blockchain</b><i>
+# Hello, developer!
 
-<i>This repo was made by cool guys and for cool guys who want to improve their programming skills in blockchain technologies. Use it for education and development in this sphere. I think this materials can be very useful for entering in blockchain programming.</i>
+<i>Here you can find some useful materials that can hep you to improve your skills in programming and solving important problems. If you have some difficulties in some programming language or framework you can try to find help in Wiki page</i>
 
-<ol>
-<li> https://youtu.be/5PtorjX9qKo
-  
-  С этого видео можно начать изучение блокчейна, речь идёт о самых основах, на более поздних этапах в нём мало пользы. Но на канале можно найти несколько полезных видео про Hyperledger Composer и Hyperledger Fabric.
-</li>
-<li> https://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
-  
- Документация Hyperledger Fabric.
-</li>
-<li> https://youtu.be/J1RfcEzD9rw
-
-Полезное видео про Hyperledger Composer, которое поможет развернуть свой первый блокчейн, и использовать его в каком-нибудь простом проекте. Даёт неплохой старт и позволяет перейти с теории на практику.
-
-P.S. если при выполнении <code>npm install</code> не выполняется prepublish, там стоит поменять mkdirp на mkdir -p и запускать это всё с помощью <code>npm install --unsafe-perm</code>
-</li>
-<li> https://youtu.be/MPNkUqOKhVE
-  
-Пошаговая инструкция с объяснением, как развернуть свой Hyperledger Fabric с нуля, подробное объяснение каждого этапа, можно брать и делать всё по этим видеоурокам.
-</ol>
+Good luck!
